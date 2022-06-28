@@ -1,0 +1,71 @@
+{"kassa" : [
+    {
+        "id": "1",
+        "name": "Alneo 1"
+    },
+    {
+        "id": "2",
+        "name": "Sabirabad"
+    },
+    {
+        "id": "3",
+        "name": "Lənkəran"
+    },
+    {
+        "id": "4",
+        "name": "Ağcabədi"
+    },
+    {
+        "id": "5",
+        "name": "Xaçmaz"
+    },
+    {
+        "id": "6",
+        "name": "Sumqayıt"
+    }
+],
+"musteri" : [
+    {
+        "id": "1",
+        "name": "Pərakəndə",
+        "birthday": "1990-01-01",
+        "identifier": "XXXXXXX"
+    },
+    {
+        "id": "2",
+        "name": "Cavid Yaqubəli",
+        "birthday": "1991-02-09",
+        "identifier": "1234567"
+    },
+    {
+        "id": "3",
+        "name": "Pərviz İsa",
+        "birthday": "1995-07-07",
+        "identifier": "AABBCCD"
+    },
+    {
+        "id": "4",
+        "name": "Joe Biden",
+        "birthday": "1925-12-21",
+        "identifier": "FUCKUSA"
+    }
+],
+"xerc" : [
+    {
+        "id": "1",
+        "name": "Ofis xərcləri"
+    },
+    {
+        "id": "2",
+        "name": "Əməkhaqqı"
+    },
+    {
+        "id": "3",
+        "name": "Nahar"
+    },
+    {
+        "id": "4",
+        "name": "Patı"
+    }
+]
+}
